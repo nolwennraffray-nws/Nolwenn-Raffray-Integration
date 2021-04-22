@@ -121,7 +121,8 @@ ul {
     fill: var(--green);
 }
 .card {
-    margin: 5px 5px;
+    padding: 20px;
+    margin-bottom: 20px;
     text-align: center;
     background-color: var(--white);
     border-radius: 20px;
