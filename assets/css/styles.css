@@ -116,6 +116,9 @@ ul {
     justify-content: center;
     text-align: center;
 }
+#containers h2 {
+    padding-top: 20px;
+}
 .card svg {
     width: 50px;
     fill: var(--green);
