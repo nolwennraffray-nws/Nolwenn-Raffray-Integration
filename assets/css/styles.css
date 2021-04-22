@@ -95,7 +95,10 @@ ul {
     border-radius: 50px;
     color: var(--white);
     background-color: var(--green);
-
+    text-decoration: none;
+    display: block;
+    width: 40%;
+    margin: 0 auto;
 }
 
 .btn_check {
